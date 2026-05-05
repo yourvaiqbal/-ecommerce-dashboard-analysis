@@ -78,4 +78,7 @@ This analysis helps stakeholders understand key revenue drivers, optimize produc
 ---
 
 ## Author
-Ahmad Iqbal Maulana
+Ahmad Iqbal Maulana - Data Analyst
+
+LinkedIn:  
+https://www.linkedin.com/in/ahmad-iqbal-maulana-9669b8228  
